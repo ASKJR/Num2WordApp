@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Num2WordApp", "Num2WordApp.csproj", "{45D5B7FD-2A46-435B-9212-7F7E353CD505}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Num2WordAppTest", "..\Num2WordAppTest\Num2WordAppTest.csproj", "{2B5F50F8-C316-4EAC-8E9D-582EB43CA8F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45D5B7FD-2A46-435B-9212-7F7E353CD505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D5B7FD-2A46-435B-9212-7F7E353CD505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D5B7FD-2A46-435B-9212-7F7E353CD505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D5B7FD-2A46-435B-9212-7F7E353CD505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B5F50F8-C316-4EAC-8E9D-582EB43CA8F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B5F50F8-C316-4EAC-8E9D-582EB43CA8F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B5F50F8-C316-4EAC-8E9D-582EB43CA8F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B5F50F8-C316-4EAC-8E9D-582EB43CA8F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB42A1DA-F6BD-4501-AD56-DBE38FD2D464}
+	EndGlobalSection
+EndGlobal
